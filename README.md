@@ -1,10 +1,12 @@
 # NLW-eSports 
 
-![preview](./)
+![preview](./github/preview.png)
 
 > Trilha Explore
 
 🚀 Projeto construído no evento Next Level Week da Rockeseat.
+
+🔗 [Clique aqui e veja as animações](https://sheilasantosdev.github.io/NLW-esports/)
 
 ## 🛠 Tecnologias
 - HTML
